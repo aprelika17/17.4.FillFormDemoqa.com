@@ -18,7 +18,7 @@ public class FillForm {
     }
 
     @Test
-    void fillFormSuccess () {
+    void fillFormSuccess() {
         //Переменные
         String firstName = "Иван";
         String lastName = "Гуру";
@@ -71,10 +71,6 @@ public class FillForm {
 
         //Закрыть модалку
         $("#closeLargeModal").click();
-
-
-
-
 
 
     }
