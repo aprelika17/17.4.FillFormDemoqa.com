@@ -18,7 +18,7 @@ public class FillForm {
     }
 
     @Test
-    void fillForm () {
+    void fillFormSuccess () {
         //Переменные
         String firstName = "Иван";
         String lastName = "Гуру";
